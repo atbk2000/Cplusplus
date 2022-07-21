@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1545671042 source:e:\determinantes\main.cpp
+	"Principal.h"
+
+1545392552 e:\determinantes\determinante.cpp
+
+1545391296 e:\determinantes\determinante.h
+	<vector>
+	<iomanip>
+	<iostream>
+	<Windows.h>
+
+1545392096 e:\determinantes\interface.cpp
+	"Interface.h"
+
+1545392062 e:\determinantes\interface.h
+	<iostream>
+	<iomanip>
+	<Windows.h>
+	<string>
+	<conio.h>
+	<locale>
+	<limits>
+
+1546020380 source:e:\determinantes\src\determinante.cpp
+	"Determinante.h"
+
+1546020630 e:\determinantes\include\determinante.h
+	<vector>
+
+1546106616 source:e:\determinantes\src\principal.cpp
+	"Principal.h"
+
+1546020628 e:\determinantes\include\principal.h
+	"Interface.h"
+
+1546190728 source:e:\determinantes\src\interface.cpp
+	"Interface.h"
+
+1546189320 e:\determinantes\include\interface.h
+	<iostream>
+	<Windows.h>
+	<string>
+	<locale>
+	<limits>
+	<stdio.h>
+	"Determinante.h"
+

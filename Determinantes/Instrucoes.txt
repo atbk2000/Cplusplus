@@ -1,0 +1,28 @@
+	Ao usar o calculador de determinantes, atente-se às seguintes regras:
+
+
+ * Utilize vírgula(,) ou ponto(.) como separadores decimais e barra(/) 
+ para frações
+
+ * Utilize no máximo uma vírgula, uma barra ou um ponto
+
+ * Caso o número seja negativo, o dígito menos(-) deve ser
+ o primeiro a ser escrito
+
+ * Caracteres inválidos(letras, símbolos fora de ordem, etc.)
+ serão considerados nulos
+
+ * Evitar escrever números com muitos algarismos significativos
+ (mais de 10 por exemplo)
+
+
+	Caso o usuário escreva um dígito errado:
+
+
+ * Clicar L para voltar uma linha inteira do determinante
+
+ * Clicar E para voltar um elemento do determinante
+
+ * O dígito será considerado nulo caso a volta não seja possível
+ de ser efetuada !
+
